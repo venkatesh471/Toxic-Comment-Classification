@@ -1,4 +1,4 @@
-### <center> Toxic Comment Classification</center>
+###                                                           Toxic Comment Classification
 
 #### Venkatesh Kandibanda 
 
@@ -8,4 +8,6 @@
   
 ### Data
 
-Source: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview It consists of large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are: a. toxic b. severe_toxic c. obscene d. threat e. insult f. identity_hate
+Source: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview 
+
+- It consists of large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are: a. toxic b. severe_toxic c. obscene d. threat e. insult f. identity_hate
